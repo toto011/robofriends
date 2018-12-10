@@ -5,7 +5,11 @@
 
 <br/>
 
-Robofriends application from "The Complete Web Developer in 2018 Zero to Mastery": https://github.com/aneagoie/robofriends 
+Robofriends application from "The Complete Web Developer in 2018 Zero to Mastery":
+
+<br/>
+
+https://github.com/aneagoie/robofriends 
 
 <br/>
 
