@@ -1,4 +1,7 @@
 # Andrei's Robofriends
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/toto011/robofriends.svg)](https://greenkeeper.io/)
+
 <br/>
 
 ![Robofriends](https://i.imgur.com/wDrhV6p.png "Andrei's Robofriends")
